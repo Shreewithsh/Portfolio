@@ -32,7 +32,7 @@ const Navbar = () => (
         <a key={item} href={`#${item.toLowerCase()}`} className="hover:text-[#00f0ff] transition-colors">{item}</a>
       ))}
     </div>
-    <a href="/resume.pdf" target="_blank" className="px-5 py-2 rounded-full border border-[#00f0ff]/50 text-[#00f0ff] text-sm hover:bg-[#00f0ff]/10 transition-all">Resume</a>
+    <a href="https://res.cloudinary.com/dleauoiyo/image/upload/f_auto,q_auto/resume_i3yg7r" target="_blank" className="px-5 py-2 rounded-full border border-[#00f0ff]/50 text-[#00f0ff] text-sm hover:bg-[#00f0ff]/10 transition-all">Resume</a>
   </nav>
 );
 
