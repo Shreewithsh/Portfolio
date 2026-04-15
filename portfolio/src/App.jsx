@@ -87,23 +87,30 @@ export default function App() {
       title: "Muscle Shree", 
       desc: "Premium supplement store with modern UI, robust product catalog, and built for high performance.", 
       tech: ["Html", "Tailwind", "Firebase","MongoDB"],
-      git: "https://github.com/your-repo",
+      git: "https://github.com/Shreewithsh/MuscleShree-supplement-store",
       link: "#"
     },
     { 
       title: "Digital Forensics Locker", 
       desc: "Java-based secure system for digital evidence management maintaining strict chain of custody protocols.", 
       tech: ["Java", "MySQL", "Cryptography"],
-      git: "https://github.com/your-repo",
+      git: "https://github.com/Shreewithsh/evidence_vault",
       link: "#"
     },
     { 
       title: "Airbnb Clone", 
       desc: "Full-featured rental UI replicating core functionalities with responsive design and modern styling.", 
       tech: ["React", "Tailwind", "Vite"],
-      git: "https://github.com/your-repo",
+      git: "https://github.com/Shreewithsh/RENTAL",
       link: "#"
     },
+    { 
+  title: "Mini Jira (Bug Tracker)", 
+  desc: "A professional-grade issue tracking system featuring automated ticket generation from server errors and a dynamic status dashboard.", 
+  tech: ["Node.js", "MongoDB", "Tailwind CSS", "Express"],
+  git: "https://github.com/Shreewithsh/Bug-Tracker", // Isse ek baar check kar lena agar repo name alag ho
+  link: "#"
+  },
   ];
 
   const skills = [
